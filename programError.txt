@@ -1,0 +1,17 @@
+	Q1;
+A= Here is no Error in this Question;
+       Q2;
+A= Here is an Runtime Error because any value Divivde by 0 gives an infinate value;
+    Error;
+    System.out.print(100/0);
+      Q3;'
+A= Here is an syntax error here we not use s of the Syste;
+    Error;
+   Sytem.out.println(100/100);
+   	Q4;
+Here intialization of variable is Not right;
+    Error;
+int a,b=15;Error 
+int a=15,b=15; Solution
+    Q5;
+variable c is not declared;
